@@ -1,2 +1,3 @@
 # JavaScript-Counter
-Sidehustle Internship, task 3.
+Solution to Sidehustle Internship, task 3.
+Live site: https://oluseyemichael.github.io/JavaScript-Counter/
