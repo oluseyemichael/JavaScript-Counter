@@ -37,7 +37,7 @@ h1 {
   font-weight: 600;
   margin: 1rem 0;
 }
-
+/*style for button*/
 .btn {
   background: rgb(26, 31, 68);
   color: #fff;
@@ -52,7 +52,7 @@ h1 {
 #add {
   margin-top: 15px;
 }
-
+/*style for link*/
 a {
   display: block;
   position: absolute;
